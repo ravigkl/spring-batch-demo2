@@ -1,0 +1,16 @@
+Adam Gilchrist|91.0|1977-11-09
+Steve Waugh|76.0|1971-03-10
+Brian Lara|92.0|1971-11-09
+Malcom Marshall|96.0|1964-03-10
+Vivian Richards|88.0|1960-08-03
+Shaun Pollack|85.0|1975-03-10
+Lance Klusner|98.0|1972-03-10
+Alan Donald|76.0|1973-02-01
+Brian Lara|92.0|1971-11-09
+Malcom Marshall|96.0|1964-03-10
+Vivian Richards|88.0|1960-08-03
+Shaun Pollack|85.0|1975-03-10
+Lance Klusner|98.0|1972-03-10
+Alan Donald|76.0|1973-02-01
+Adam Gilchrist|91.0|1977-11-09
+Steve Waugh|76.0|1971-03-10
